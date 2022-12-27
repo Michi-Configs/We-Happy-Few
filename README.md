@@ -4,7 +4,7 @@ Configuration Files for We Happy Few
 
 ## How to Download
 
-![Download File Steps](How_To_Download.png)
+![Download File Steps](Download_Steps.png)
 
 ## Steps
 
